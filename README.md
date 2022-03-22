@@ -5,4 +5,4 @@ This is lab 2 testing file.
 [![Releases](https://img.shields.io/github/release/Sai-Bhone-Myat-Naing/sem/all.svg?style=flat-square)](https://github.com/Sai-Bhone-Myat-Naing/sem/releases)
 
 # Software Engineering Methods
-![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/Sai-Bhone-Myat-Naing/sem/A workflow for my Hello World App/develop?style=flat-square)
+![GitHub Workflow Status develop](https://img.shields.io/github/workflow/status/Sai-Bhone-Myat-Naing/sem/A workflow for my Hello World App/develop?style=flat-square)
